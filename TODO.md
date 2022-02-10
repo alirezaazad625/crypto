@@ -1,8 +1,8 @@
-- [ ] RC4
+- [ ] RC4 (Parsa)
 ---
-- [ ] Rabin-Miller
-- [ ] Pollards Rho
-- [ ] RSA(3)
+- [ ] Rabin-Miller (Alireza)
+- [ ] Pollards Rho (Harki Zudtar)
+- [ ] RSA(3) (Pair)
 ---
 - [ ] AES(2)
 - [ ] SHA256
