@@ -36,8 +36,8 @@ public class Core {
     /**
      * This function is called when a user wants to logout.
      *
-     * @param userName plain username.
-     * @param password plain password in a char array. 
+//     * @param userName plain username.
+//     * @param password plain password in a char array.
      * @return {@code true} if and only if the logout process is done
      * successfully.
      */
